@@ -1,0 +1,25 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stoic-park/typechain.git"
+  },
+  "author": "stoicLama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stoic-park/typechain/issues"
+  },
+  "homepage": "https://github.com/stoic-park/typechain#readme",
+  "dependencies": {
+    "typescript": "^3.9.3"
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.2.8"
+  }
+}
