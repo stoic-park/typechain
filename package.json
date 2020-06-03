@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/stoic-park/typechain#readme",
   "dependencies": {
+    "crypto-js": "^4.0.0",
     "typescript": "^3.9.3"
   },
   "devDependencies": {
